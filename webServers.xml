@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c459f3e7-9f97-4886-962a-09b92829b932" name="fx88-public" url="http://fx88.co">
+        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/var/www/sites/fx88-public" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="31682200-1cfa-4d83-8e0f-c5a40fbbbb37" name="fx88-user" url="http://my.fx88.co">
+        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/var/www/sites/fx88-user" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="26c7ff16-f367-40a7-813e-9af9dc15189a" name="fx88-staff" url="http://staff.fx88.co">
+        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/var/www/sites/fx88-staff" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
