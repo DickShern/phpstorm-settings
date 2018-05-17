@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="822388cf-e729-46ee-af9b-46bd0daf6e07" name="anzocapital-client" url="http://my.anzocapital.co/">
+        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/home/forge/my.anzocapital.co" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="c459f3e7-9f97-4886-962a-09b92829b932" name="fx88-public" url="http://fx88.co">
         <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/var/www/sites/fx88-public" accessType="SFTP" keyPair="true">
           <advancedOptions>
