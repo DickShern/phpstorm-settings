@@ -33,14 +33,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a26a4c78-4f7a-44b5-8730-2627e32880cd" name="ancapital-client" url="http://my.anzocapital.co">
-        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/home/forge/my.anzocapital.co" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
