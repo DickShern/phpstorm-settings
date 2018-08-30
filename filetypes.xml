@@ -1,15 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="fed5c53b3eb27da85dc0c3d07cdaf2aa" type="PLAIN_TEXT" />
-      <mapping pattern="ff86d488bc8c7cabda1d86004a6f4d68" type="PLAIN_TEXT" />
-      <mapping pattern="fe0a39dfed0ea562702151539d5601d1" type="PLAIN_TEXT" />
-      <mapping pattern="19eb8e1bf68fe1903784705969df2cdd98ff008b" type="PLAIN_TEXT" />
-      <mapping pattern="_test" type="PLAIN_TEXT" />
       <mapping pattern="ff4bc60a3efbebc66fb2df5c97be1b5a" type="PLAIN_TEXT" />
-      <mapping pattern="fe4877db796c93002ad3715518c3fb78" type="PLAIN_TEXT" />
+      <mapping pattern="test git" type="PLAIN_TEXT" />
       <mapping pattern="0b0fca84d9611d6e9994365fdea3ff423d9571d1" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="19eb8e1bf68fe1903784705969df2cdd98ff008b" type="PLAIN_TEXT" />
+      <mapping pattern="fe4877db796c93002ad3715518c3fb78" type="PLAIN_TEXT" />
+      <mapping pattern="fed5c53b3eb27da85dc0c3d07cdaf2aa" type="PLAIN_TEXT" />
+      <mapping pattern="fe0a39dfed0ea562702151539d5601d1" type="PLAIN_TEXT" />
+      <mapping pattern="_test" type="PLAIN_TEXT" />
+      <mapping pattern="ff86d488bc8c7cabda1d86004a6f4d68" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
