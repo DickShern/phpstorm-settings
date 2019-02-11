@@ -12,6 +12,7 @@
       <mapping pattern="_test" type="PLAIN_TEXT" />
       <mapping pattern="ff86d488bc8c7cabda1d86004a6f4d68" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
