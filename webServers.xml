@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="26c7ff16-f367-40a7-813e-9af9dc15189a" name="fx88-staff" url="http://staff.fx88.co">
-        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Users\dickshern\Desktop\eds-private.ppk" rootFolder="/var/www/sites/fx88-staff" accessType="SFTP" keyPair="true">
+        <fileTransfer host="d.fx88.co" port="22" privateKey="C:\Drive\Anzo\ssh-Dennis-private" rootFolder="/var/www/sites/fx88-staff" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
